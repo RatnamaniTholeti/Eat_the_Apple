@@ -1,0 +1,66 @@
+.bod
+{
+    background-image: url('https://th.bing.com/th/id/OIP.GDGVpPDv3Xk67X5pt4iFTgHaFy?w=237&h=185&c=7&r=0&o=5&pid=1.7');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100vh;
+    /* color: white; */
+    font-size: large;
+    font-weight: bolder;
+}
+.time
+{
+   text-align: center;
+   padding-top: 100px;
+   color:blueviolet;
+   font-size: 30px;
+   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   text-shadow: 2px 2px 2px  black;
+   position: relative;
+   left: 20px;
+}
+.imagee
+{ 
+   position: relative;
+   left: 610px;
+   cursor: pointer;
+   height: 200px;
+}
+
+.score
+{
+   text-align: center;
+   
+}
+.msg
+{
+    position: relative;
+   left: 550px;
+   color: red;
+}
+.msg1
+{
+    position: relative;
+   left: 400px;
+    color: green;
+}
+
+button{
+    position: relative;
+   left: 650px;
+   padding: 5px;
+   padding-left: 20px;
+   padding-right: 20px;
+   border-radius: 30px;
+   background-color:orange;
+}
+button:hover
+{
+    background-color: crimson;
+}
+.img
+{
+    position: relative;
+    left:600px
+}
